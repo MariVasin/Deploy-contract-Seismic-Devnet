@@ -77,7 +77,7 @@ Steps:
 
 1. Visit the faucet: [https://faucet-2.seismicdev.net/](https://faucet-2.seismicdev.net/)
 2. Request some test ETH to your main wallet.
-3. From your main wallet, send **0.1 ETH** to the wallet address generated during deploy.
+3. From your main wallet, send **0.05 ETH** to the wallet address generated during deploy.
 4. Wait **2–3 minutes**, then press **Enter** in the terminal to continue.
 
 If successful — the contract is deployed 🥳
